@@ -4,20 +4,15 @@
 
 ## Run the project locally
 
-**1 -** Prepare the evironment:
- 
- ```sh
- $ npm install 
-```
 
-**2 -** Clone the project and install the dependecies:
+
+**1 -** Clone the project 
 
 ```sh
 $ git clone https://github.com/RobsonGap/my-page
 $ cd my-page
-$ npm install
 ```
-**3 --** Run static server and livereload:
+**2 --** Run static server and livereload:
 
 ```sh
 $ execute live server
@@ -43,7 +38,7 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 ## Contributing
 Find on our [roadmap](https://github.com/RobsonGap/my-page/issues/1) the next steps of the project ;)
 <br>
-Want to contribute? [Follow these recommendations](https://github.com/RobsonGap/api-rest-node/blob/master/CONTRIBUTING.md).
+Want to contribute? [Follow these recommendations](https://github.com/RobsonGap/my-page/blob/master/CONTRIBUTING.md).
 
 
 
